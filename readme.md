@@ -13,9 +13,7 @@ htdocs, la cuál se crea una ves instalado XAMPP.
 
 Se necesita tener un servidor WEB y un servidor que se encargue de la base de datos.
 
-```
 Ejemplo de lo anterior puede ser el ejecutable XAMPP, que se encarga de proporcionar una interfaz muy amigable que permite la administracion del servidor Apache para las conexiones via WEB y tambien para la base de datos, usando MySQL.
-```
 
 ### Instalación
 
@@ -25,7 +23,7 @@ No es necesaria una instalación previa del juego.
 
 No se establecieron pruebas.
 
-## Built With
+## Creado con
 
 * [XAMPP](https://www.apachefriends.org/) - Herramienta para automatizar el desarrollo de aplicaciones WEB.
 * [Apache 2.4](https://httpd.apache.org/) - Servidor.
@@ -34,12 +32,12 @@ No se establecieron pruebas.
 * [PHP 7](http://php.net/) - Lenguaje de programación para manejar los aspectos lógicos.
 
 
-## Authors
+## Autor(es)
 
 * **Alejandro López** - *Trabajo inicial* - [Linkedin](www.linkedin.com/in/alejlopezg)
 
 ## Agradecimientos
 
-* A Eliana Solis, por el interés en mi perfil y por esa gran oportunidad que puede brindar a todos los venezonalos.
+* A Eliana Solis, por el interés en mi perfil y por esa gran oportunidad que puede brindar a todos los venezolanos.
 * A toda esa gente de [stackoverflow](https://stackoverflow.com/), que me ayudó a quitarle un poco el oxido a mis conocimientos(que son pocos) en php.
 * A Hiberus, por ese gran futuro que me puedan ofrecer en caso de que sea seleccionado.
